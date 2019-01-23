@@ -268,3 +268,5 @@ local.properties
 .scala_dependencies
 .worksheet
 
+.idea/.name
+src/main/java/Outer.java
